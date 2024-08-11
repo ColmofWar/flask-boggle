@@ -1,0 +1,13 @@
+.board{
+    color: black;
+    border-style: solid;
+}
+
+td{
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, sans-serif;
+}
